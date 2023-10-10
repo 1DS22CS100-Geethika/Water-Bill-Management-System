@@ -8,5 +8,7 @@ With online invoicing softwares, all necessary calculations are managed by the s
 These errors delay the payment process.The customer can raise any concerns they may have to through feedback system.
 It also provides usage tracking which can help the customer manage their water expenditure.
 
-
+- Language Used : Java
+- Frameworks Used: Swing, AWT
+- IDE:Netbeans
 
